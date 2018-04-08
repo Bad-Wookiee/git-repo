@@ -1,6 +1,5 @@
 print ("Hello world")
 print ("Hello everybody")
 print ("Please choose your gender")
+show ("Choises M|F|Wookiee")
 print ("Please type your name")
-
-
