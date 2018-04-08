@@ -1,3 +1,6 @@
 print ("Hello world")
 print ("Hello everybody")
-print ("Please choose your name")
+print ("Please choose your gender")
+print ("Please type your name")
+
+
