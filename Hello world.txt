@@ -5,3 +5,5 @@ show ("Choises M|F|Wookiee");
 print ("Please type your name");
 show ("max name=10 sym");
 if name > 10 show ("Max leght 10 sym");
+print("Goodbye!");
+print("Hope see you soon!");
