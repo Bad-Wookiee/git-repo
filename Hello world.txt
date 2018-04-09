@@ -7,3 +7,4 @@ show ("max name=10 sym");
 if name > 10 show ("Max leght 10 sym");
 print("Goodbye!");
 print("Hope see you soon!");
+print("see you next time");
