@@ -3,6 +3,3 @@ print ("Hello everybody")
 print ("Please choose your gender")
 show ("Choises M|F|Wookiee")
 print ("Please type your name")
-     max size=10 {symbols}
-     if name > 10
-     show err message ("Max leght 10 symbols.")
