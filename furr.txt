@@ -1,1 +1,2 @@
 when add cat foto print ("Furr")
+user get 1 ("Meow")
