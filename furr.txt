@@ -1,3 +1,4 @@
 when add cat foto print ("Furr");
+if download not sucsessfull show ("Try again")
 user get 1 ("Meow");
 set (1 Meow; 2 Meow; 5 Meow) as reward; 
